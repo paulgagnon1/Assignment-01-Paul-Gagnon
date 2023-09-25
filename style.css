@@ -1,0 +1,20 @@
+body {
+    background-color: gray
+    font-family:  "Adobe Garamond", "Times New Roman", serif;
+}
+
+.wrapper {
+    background-color: white;
+    padding: 2rem;
+    max-width: 80%;
+    margin: 4rem auto;
+
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img {
+    max-width: 100%;
+}
